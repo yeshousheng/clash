@@ -141,6 +141,10 @@ DOMAIN-SUFFIX,colaotc.com
 DOMAIN-SUFFIX,stripchatgirls.com
 DOMAIN-SUFFIX,hjd2048.com
 
+#蚂蚁
+DOMAIN-SUFFIX,antlink.cc
+DOMAIN-SUFFIX,antlink.xyz
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
